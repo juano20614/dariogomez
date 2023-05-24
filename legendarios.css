@@ -1,0 +1,48 @@
+body{
+    background:url("images/popular.png");
+    background-repeat: repeat;
+}
+main{
+    box-shadow: 0 0  10px #292929;
+    border-radius: 30px;
+    width: 60%;
+    margin: 50px auto;
+    background-color:rgb(212, 212, 212);
+    padding: 30px;
+}
+
+img{
+    border-radius: 40px;
+    width: 70%;
+    }
+
+p{
+    font: oblique bold 120% cursive; ;
+ }
+
+ section{
+    background-size: contain;
+    border: 4px  #001a49;
+    border-radius: 50px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+ul li{
+    display: inline;
+    padding: 0 10px;
+}
+
+ul li a{
+    text-decoration: none;
+    background-color: #000;
+    color: #FFF;
+    padding: 10px 15px;
+    border-radius: 40px;
+    box-shadow: 20px 20px 20px #292929;
+}
+
+ul li a:hover{
+    background-color: #1b0694;
+
+}
+
